@@ -72,7 +72,7 @@ lab02-recombee-movies/
 └── README.md
 ```
 
-Fișierele `.env`, `predare.txt` și folderul `reports` sunt locale și sunt excluse din Git. Modelul `.env.example` este inclus în repository.
+Fișierul `.env` și folderul `reports` sunt locale și sunt excluse din Git. Modelul `.env.example` este inclus în repository.
 
 ## Instalare și configurare
 
@@ -191,18 +191,6 @@ Catalogul afișează momentan **0 item-uri**. Pentru laboratorul 2 am creat sche
 | O proprietate are alt tip | Verific baza selectată și proprietatea indicată în mesaj. |
 | Fișierul CSV nu este găsit | Verific folderul `archive-3` sau folosesc opțiunea `--dataset`. |
 | `NotOpenSSLWarning` pe macOS | Folosesc Python 3.11+ instalat separat și recreez mediul virtual. |
-
-## Predarea
-
-Am publicat codul și dataset-ul în repository-ul [lab02-recombee-movies](https://github.com/Antonio0805/lab02-recombee-movies), care este public.
-
-Pentru Moodle am pregătit fișierul local `predare.txt`. Acesta conține exclusiv linkul repository-ului:
-
-```text
-https://github.com/Antonio0805/lab02-recombee-movies
-```
-
-La predare încarc fișierul `.txt` pe Moodle și verific că platforma a salvat trimiterea.
 
 ## Surse
 
