@@ -2,6 +2,8 @@
 
 Proiect Python pentru definirea proprietăților unui catalog de filme prin SDK-ul oficial Recombee. Scriptul verifică dataset-ul, creează proprietățile lipsă și confirmă prin API tipurile salvate.
 
+**Integrare verificată pe 22 octombrie 2026:** cele șapte proprietăți au fost create în baza de dezvoltare, iar numele și tipurile au fost confirmate printr-un nou apel `ListItemProperties`. Raportul rezultat este păstrat local în `reports/recombee_properties.json`. Validarea locală și cele 12 teste au trecut. Invitația profesorului și predarea pe Moodle se fac conform secțiunilor 7 și 9.
+
 ## 1. Dataset-ul ales
 
 - **Domeniu:** filme; un item reprezintă un film.
@@ -223,7 +225,7 @@ Aceste teste verifică validarea datelor și comportamentul scriptului; confirma
 | Dataset CSV cu 100–10.000 de item-uri — 30p | Fișierul original cu 4.803 filme |
 | Domeniu și minimum 3 proprietăți documentate — 20p | Secțiunea 1, tabel cu 7 proprietăți și tipurile lor |
 | Script adaptat și funcțional — 30p | `recombee_properties.py`, dependențe și verificări locale |
-| Proprietăți integrate în Recombee — 20p | De finalizat prin rularea cu contul propriu și verificarea în Admin UI |
+| Proprietăți integrate în Recombee — 20p | Cele 7 proprietăți au fost create și confirmate prin API în baza de dezvoltare; pot fi consultate în Admin UI |
 
 ## Referințe
 
