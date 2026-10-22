@@ -1,0 +1,2 @@
+# Păstrează octeții CSV-urilor originale la commit și checkout.
+*.csv -text
