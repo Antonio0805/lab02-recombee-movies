@@ -167,7 +167,7 @@ Conform cerinței laboratorului, profesorul are nevoie de **Edit** pentru a pute
 
 ## 8. Publicarea pe GitHub
 
-Repository-ul proiectului este [Antonio0805/lab02-recombee-movies](https://github.com/Antonio0805/lab02-recombee-movies) și are vizibilitatea **Private**. Oferă profesorului acces din pagina repository-ului: **Settings → Collaborators → Add people**, folosind contul sau adresa de e-mail indicată de acesta. Acest acces este separat de invitația în Recombee.
+Repository-ul proiectului este [Antonio0805/lab02-recombee-movies](https://github.com/Antonio0805/lab02-recombee-movies) și are vizibilitatea **Public**. Profesorul poate consulta codul și dataset-ul fără invitație pe GitHub. Invitația în Recombee, cu dreptul **Edit** pe baza de date, rămâne necesară conform secțiunii 7.
 
 Pentru a descărca proiectul pe alt calculator:
 
